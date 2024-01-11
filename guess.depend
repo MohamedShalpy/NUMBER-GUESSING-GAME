@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704963448 source:c:\users\dell5570\desktop\guess\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+
